@@ -1,38 +1,47 @@
 [
   {
-    "title": "LibroNuevo0000",
-    "description": "Misterio",
-    "price": 250,
-    "thumbnail": "imagen5",
-    "code": "code5",
-    "stock": 53,
-    "id": 1
-  },
-  {
-    "title": "LibroNuevo555",
-    "description": "Misterio",
-    "price": 30,
-    "thumbnail": "imagen5",
-    "code": "code5",
-    "stock": 15,
-    "id": 2
-  },
-  {
-    "title": "LibroNuevo0000",
-    "description": "Misterio",
-    "price": 30,
-    "thumbnail": "imagen5",
-    "code": "code5",
-    "stock": 15,
-    "id": 3
-  },
-  {
-    "title": "LibroNuevo555",
+    "title": "Libroerer5",
     "description": "Misterio",
     "price": 30,
     "thumbnail": "imagen5",
     "code": "code5",
     "stock": 15,
     "id": 4
+  },
+  {
+    "title": "Libro4",
+    "description": "Aventura",
+    "price": 50,
+    "thumbnail": "imagen4",
+    "code": "code4",
+    "stock": 8,
+    "id": 145
+  },
+  {
+    "title": "Libro4",
+    "description": "Aventura",
+    "price": 50,
+    "thumbnail": "imagen4",
+    "code": "code4",
+    "stock": 8,
+    "id": 645
+  },
+  {
+    "title": "Libro4",
+    "description": "Aventura",
+    "price": 50,
+    "thumbnail": "imagen4",
+    "code": "code4",
+    "stock": 8,
+    "id": 445
+  },
+  {
+    "title": "Libro4",
+    "description": "Aventura",
+    "price": 50,
+    "thumbnail": "imagen4",
+    "code": "code4",
+    "stock": 8,
+    "id": 453
   }
 ]
