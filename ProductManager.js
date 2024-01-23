@@ -43,13 +43,13 @@ class ProductManager {
   }
 
   addProduct(product) {
-    // Verificar campos obligatorios
+  
     if (!product.title || !product.description || !product.price || !product.thumbnail || !product.code || !product.stock) {
       console.error('Todos los campos son obligatorios.');
       return;
     }
 
-    // Verificar duplicados por código
+
     if (this.eventos.some(existingProduct => existingProduct.code === product.code)) {
       console.error('Ya existe un producto con el mismo código.');
       return;
@@ -86,7 +86,7 @@ class ProductManager {
   }
 }
 
-// Utilizar ruta relativa al archivo
+
 const filePath = './productos.json';
 const manager = new ProductManager(filePath);
 
