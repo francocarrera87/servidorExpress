@@ -1,0 +1,38 @@
+[
+  {
+    "title": "LibroNuevo0000",
+    "description": "Misterio",
+    "price": 250,
+    "thumbnail": "imagen5",
+    "code": "code5",
+    "stock": 53,
+    "id": 1
+  },
+  {
+    "title": "LibroNuevo555",
+    "description": "Misterio",
+    "price": 30,
+    "thumbnail": "imagen5",
+    "code": "code5",
+    "stock": 15,
+    "id": 2
+  },
+  {
+    "title": "LibroNuevo0000",
+    "description": "Misterio",
+    "price": 30,
+    "thumbnail": "imagen5",
+    "code": "code5",
+    "stock": 15,
+    "id": 3
+  },
+  {
+    "title": "LibroNuevo555",
+    "description": "Misterio",
+    "price": 30,
+    "thumbnail": "imagen5",
+    "code": "code5",
+    "stock": 15,
+    "id": 4
+  }
+]
